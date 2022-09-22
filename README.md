@@ -16,6 +16,16 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 *
 * <b>RAM VPS minimal 1 GB</b>
 
+<br>
+<h2 align="center">Wajib Request IP Sebelum Memulai Install VPS</h2>
+<b><p align="center">Contact Me</b>
+<p align="center"><b>Facebook</b>
+<br><a href="https://fb.com/zan404"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<br>
+<p align="center"><b>Telegram</b>
+<br><a href="https://t.me/mfauzan58"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
+
+
 # Update & Upgrade Repo
 
 ```
@@ -44,11 +54,3 @@ wget -q https://raw.githubusercontent.com/kurosewu/multi/main/setup.sh && chmod 
 # Pict After Installation
 
 ![alt text](https://raw.githubusercontent.com/kurosewu/multi/main/IMG_20220922_230958.jpg)
-<br>
-<h2 align="center">Wajib Request IP Sebelum Memulai Install VPS</h2>
-<b><p align="center">Contact Me</b>
-<p align="center"><b>Facebook</b>
-<br><a href="https://fb.com/zan404"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<br>
-<p align="center"><b>Telegram</b>
-<br><a href="https://t.me/mfauzan58"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
