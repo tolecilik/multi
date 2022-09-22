@@ -16,6 +16,20 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 *
 * <b>RAM VPS minimal 1 GB</b>
 
+# Fitur & Service
+* `NGINX`              : 81
+* `SHADOWSOCKS WS`     : 443
+* `SHADOWSOCKS GRPC`   : 443
+* `TROJAN-GFW TCP TLS` : 443
+* `TROJAN WS/GO TLS`   : 443
+* `TROJAN GRPC`        : 443
+* `VLESS WS TLS`       : 443
+* `VLESS WS NTLS`      : 80
+* `VLESS GRPC`         : 443
+* `VMESS WS TLS`       : 443
+* `VMESS WS NTLS`      : 80
+* `VMESS GRPC`         : 443
+
 <br>
 <h2 align="center">Wajib Request IP Sebelum Memulai Install VPS</h2>
 <b><p align="center">Contact Me</b>
@@ -36,20 +50,6 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 ```
 wget -q https://raw.githubusercontent.com/kurosewu/multi/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
-
-# Fitur & Service
-* `NGINX`              : 81
-* `SHADOWSOCKS WS`     : 443
-* `SHADOWSOCKS GRPC`   : 443
-* `TROJAN-GFW TCP TLS` : 443
-* `TROJAN WS/GO TLS`   : 443
-* `TROJAN GRPC`        : 443
-* `VLESS WS TLS`       : 443
-* `VLESS WS NTLS`      : 80
-* `VLESS GRPC`         : 443
-* `VMESS WS TLS`       : 443
-* `VMESS WS NTLS`      : 80
-* `VMESS GRPC`         : 443
 
 # Pict After Installation
 
