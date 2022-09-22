@@ -37,7 +37,7 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 <br><a href="https://fb.com/zan404"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 <br>
 <p align="center"><b>Telegram</b>
-<br><a href="https://t.me/mfauzan58"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
+<br><a href="https://t.me/mfauzan58"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a><br>
 
 
 # Update & Upgrade Repo
